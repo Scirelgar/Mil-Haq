@@ -1,5 +1,5 @@
-#Author : Xavier Bergeron ,  Lia Suci Waliani , Gabriel Lemay, Emeryck ALLAIN , 
-#This code was created during the Mil'HaQ , the goal was to predict the price of Swaption using a Quantum computing 
+#Author : Xavier Bergeron ,  Lia Suci Waliani , Gabriel Lemay, Emeryck ALLAIN , Naomi Catwell
+#This code was created during the Mil'HaQ , the goal was to predict the price of Swaption using a Quantum computing  	
 import os
 import multiprocessing
 import numpy as np
